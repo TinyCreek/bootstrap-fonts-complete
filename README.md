@@ -14,7 +14,7 @@ console.dir(fonts);
 
 yields
 
-``` json
+``` jsonc
 {
     "monospace": {
         "category": "monospace",
